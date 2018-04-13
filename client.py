@@ -37,7 +37,7 @@ def main():
             elif sequenceNumber != ACK:  #if we got the wrong packet, send for the proper one
                 clientSocket.send(ACK)
         except timeout:
-            print 'timeout here'
+            print 'timeout notice'
             clientSocket.send(ACK)
             print ACK
 
