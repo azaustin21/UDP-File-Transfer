@@ -17,11 +17,11 @@
     is used then it would be n003
   - Then run "python client.py"" in the same terminal
   
-### Input ###
-  data = ['Neo','You','Are','The','Chosen','One']
+### Input
+  ### data = ['Neo','You','Are','The','Chosen','One']
 
-### Ouput ###
-  > timeout here
+### Ouput
+  ### timeout here
   > 0
   > Neo
   > timeout here
