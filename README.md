@@ -16,12 +16,12 @@
   - Use command "ssh n002" n002 can change depending on the cluster you are using if cluster 3
     is used then it would be n003
   - Then run "python client.py"" in the same terminal
-  
+
 ### Input
-  ### data = ['Neo','You','Are','The','Chosen','One']
+   data = ['Neo','You','Are','The','Chosen','One']
 
 ### Ouput
-  ### timeout here
+  # timeout here
   > 0
   > Neo
   > timeout here
