@@ -4,7 +4,7 @@ serverPort = 12000
 closingMessage = 'end trans'
 receivng = False
 
-data = ['Never','Gonna','Give','You','Up','Never','Let','You','Down']
+data = ['Neo','You','Are','The','Chosen','One']
 
 def main():
     serverSocket = socket(AF_INET, SOCK_STREAM)
